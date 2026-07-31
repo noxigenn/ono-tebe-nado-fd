@@ -48,7 +48,6 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-   
 }
 
  .overlay {
@@ -134,10 +133,6 @@
   list-style: none;
 }
 
-.card-link {
-  height: 100%;
-}
-
 .lots__card-list {
   display: flex;
   flex-wrap: wrap;
@@ -172,6 +167,7 @@
 .card-link {
   color: #fff;
   text-decoration: none;
+  height: 100%;
 }
 
 .card {
